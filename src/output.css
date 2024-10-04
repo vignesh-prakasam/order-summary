@@ -575,18 +575,6 @@ video {
   margin-top: 1.25rem;
 }
 
-.mt-6 {
-  margin-top: 1.5rem;
-}
-
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
-.mt-4 {
-  margin-top: 1rem;
-}
-
 .flex {
   display: flex;
 }
@@ -645,12 +633,6 @@ video {
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
 }
 
-.space-y-5 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-y-reverse: 0;
-  margin-top: calc(1.25rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(1.25rem * var(--tw-space-y-reverse));
-}
-
 .rounded-2xl {
   border-radius: 1rem;
 }
@@ -693,7 +675,7 @@ video {
 }
 
 .bg-custom-mobile-bg {
-  background-image: url('/src/assets/images/pattern-background-mobile.svg');
+  background-image: url('./src/assets/images/pattern-background-mobile.svg');
 }
 
 .bg-repeat-x {
@@ -724,24 +706,19 @@ video {
   font-family: "Red Hat Display", sans-serif;
 }
 
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
 
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .font-bold {
@@ -846,6 +823,6 @@ video {
 
 @media (min-width: 640px) {
   .sm\:bg-custom-desktop-bg {
-    background-image: url('/src/assets/images/pattern-background-desktop.svg');
+    background-image: url('./src/assets/images/pattern-background-desktop.svg');
   }
 }
