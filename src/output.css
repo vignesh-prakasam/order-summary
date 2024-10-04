@@ -798,12 +798,12 @@ video {
 
 .hover\:bg-lavender:hover {
   --tw-bg-opacity: 1;
-  background-color: hsl(248 53% 58% / var(--tw-bg-opacity));
+  background-color: hsl(248 74% 65% / var(--tw-bg-opacity));
 }
 
 .hover\:text-lavender:hover {
   --tw-text-opacity: 1;
-  color: hsl(248 53% 58% / var(--tw-text-opacity));
+  color: hsl(248 74% 65% / var(--tw-text-opacity));
 }
 
 .hover\:text-neutral-dark:hover {

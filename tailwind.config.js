@@ -11,7 +11,7 @@ module.exports = {
         'red-hat-display': ['"Red Hat Display"', 'sans-serif'],
       },
       colors: {
-        'lavender': 'hsl(248, 53%, 58%)', // Lavender color
+        'lavender': 'hsl(248, 74%, 65%)', // Lavender color
         primary: {
           pale: 'hsl(225, 100%, 94%)',
           bright: 'hsl(245, 75%, 52%)',
