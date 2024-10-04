@@ -7,7 +7,11 @@ module.exports = {
         'custom-desktop-bg': "url('/src/assets/images/pattern-background-desktop.svg')",
         'custom-mobile-bg': "url('/src/assets/images/pattern-background-mobile.svg')",
       },
+      fontFamily: {
+        'red-hat-display': ['"Red Hat Display"', 'sans-serif'],
+      },
       colors: {
+        'lavender': 'hsl(248, 53%, 58%)', // Lavender color
         primary: {
           pale: 'hsl(225, 100%, 94%)',
           bright: 'hsl(245, 75%, 52%)',
