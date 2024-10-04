@@ -52,8 +52,8 @@ I learned to use background pattern along with a background color to bring the d
 
 ```json
   backgroundImage: {
-        'custom-desktop-bg': "url('/src/assets/images/pattern-background-desktop.svg')",
-        'custom-mobile-bg': "url('/src/assets/images/pattern-background-mobile.svg')",
+        'custom-desktop-bg': "url('./assets/images/pattern-background-desktop.svg')",
+        'custom-mobile-bg': "url('./assets/images/pattern-background-mobile.svg')",
       },
       fontFamily: {
         'red-hat-display': ['"Red Hat Display"', 'sans-serif'],
