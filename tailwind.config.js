@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'custom-desktop-bg': "url('./src/assets/images/pattern-background-desktop.svg')",
-        'custom-mobile-bg': "url('./src/assets/images/pattern-background-mobile.svg')",
+        'custom-desktop-bg': "url('./assets/images/pattern-background-desktop.svg')",
+        'custom-mobile-bg': "url('./assets/images/pattern-background-mobile.svg')",
       },
       fontFamily: {
         'red-hat-display': ['"Red Hat Display"', 'sans-serif'],

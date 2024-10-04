@@ -675,7 +675,7 @@ video {
 }
 
 .bg-custom-mobile-bg {
-  background-image: url('./src/assets/images/pattern-background-mobile.svg');
+  background-image: url('./assets/images/pattern-background-mobile.svg');
 }
 
 .bg-repeat-x {
@@ -773,8 +773,6 @@ video {
 
   font-weight: 500;
 
-  font-display: swap;
-
   font-style: normal;
 }
 
@@ -785,8 +783,6 @@ video {
 
   font-weight: 700;
 
-  font-display: swap;
-
   font-style: normal;
 }
 
@@ -796,8 +792,6 @@ video {
   src: url('./assets/fonts/RedHatDisplay-VariableFont_wght.ttf') format('woff2');
 
   font-weight: 900;
-
-  font-display: swap;
 
   font-style: normal;
 }
@@ -823,6 +817,6 @@ video {
 
 @media (min-width: 640px) {
   .sm\:bg-custom-desktop-bg {
-    background-image: url('./src/assets/images/pattern-background-desktop.svg');
+    background-image: url('./assets/images/pattern-background-desktop.svg');
   }
 }
