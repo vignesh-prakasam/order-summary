@@ -50,7 +50,7 @@ Users should be able to:
 
 I learned to use background pattern along with a background color to bring the desired result
 
-```json
+```
   backgroundImage: {
         'custom-desktop-bg': "url('./assets/images/pattern-background-desktop.svg')",
         'custom-mobile-bg': "url('./assets/images/pattern-background-mobile.svg')",
