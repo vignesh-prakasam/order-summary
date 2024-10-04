@@ -27,12 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/ea1355f8-3c0b-4cef-9982-2fe29a095c7f">
+
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://capable-salamander-5aba54.netlify.app/](https://capable-salamander-5aba54.netlify.app/#)
 
 ## My process
 
